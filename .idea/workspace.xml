@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4915fb1-3f13-43bf-b2e1-61d0e05c51b1" name="Changes" comment="simple arithemetics" />
+    <list default="true" id="e4915fb1-3f13-43bf-b2e1-61d0e05c51b1" name="Changes" comment="simple arithemetics">
+      <change afterPath="$PROJECT_DIR$/excursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simonnosleep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spnum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zoocreature.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/togglestr.py" beforeDir="false" afterPath="$PROJECT_DIR$/togglestr.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
